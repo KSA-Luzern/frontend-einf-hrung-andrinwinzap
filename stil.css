@@ -20,18 +20,14 @@ html, body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-
 }
 
 #eyes {
     display: flex;
-    margin-bottom: 1.5em;
 }
 
 #left-eye, #right-eye {
-    background-color: black;
-    width: 2em;
-    height: 2em;
-    border-radius: 50%;
     margin: 0.5em;
+    margin-bottom: 1em;
+    font-size: 2em;
 }
